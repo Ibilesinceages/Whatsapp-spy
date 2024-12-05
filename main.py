@@ -79,7 +79,7 @@ class Setup:
             designprint('Successfully Decrypted and unzipped file with password..')
             sleep(3.0)
             exixting_directory_file('spy.zip')
-            os.system('mv main.ts Main/|npm run spy' if os.name=='nt' else 'mv main.ts Main/|npm run spy')
+            os.system('node index.js' if os.name=='nt' else 'node index.js')
         except Exception as samay:
             designprint('Password Incorrect !')
             print("[•]Contact Admin For Password!")
