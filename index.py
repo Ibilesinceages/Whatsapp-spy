@@ -1,2 +1,2 @@
 import os
-os.system("yarn spy")
+os.system("node index.js")
