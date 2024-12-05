@@ -1,5 +1,5 @@
 clear
-apt update
+sudo apt update
 sudo apt install python3 nodejs npm 
 
 
