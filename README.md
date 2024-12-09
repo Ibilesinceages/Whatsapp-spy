@@ -1,5 +1,5 @@
 <center>
- <img src='https://raw.githubusercontent.com/STARK-404/Whatsapp-spy/main/_City%20Sky%20lights%20Wallpapper.png?token=GHSAT0AAAAAACGNKBR4N6FGR7ZVARM45A7AZHCZUDQ'>
+ <img src='https://raw.githubusercontent.com/STARK-404/Whatsapp-spy/refs/heads/v2.0/_City%20Sky%20lights%20Wallpapper.png'>
 </center>
  
  
