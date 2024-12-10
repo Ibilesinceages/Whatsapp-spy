@@ -2,18 +2,6 @@
   "name": "Whatsapp-spy",
   "version": "2.0.1",
   "main": "index.js",
-  "keywords": [
-    "whatsapp",
-    "js-whatsapp",
-    "whatsapp-api",
-    "whatsapp-web",
-    "whatsapp-chat",
-    "whatsapp-group",
-    "automation",
-    "multi-device",
-    "WhatsApp-spy",
-    "Wp-hack",
-  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
